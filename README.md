@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<a href="https://velog.io/@colorful-stars" target="https://blog.naver.com/silverain_9"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://blog.naver.com/silverain_9" target="https://blog.naver.com/silverain_9"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
-<a href="https://velog.io/@colorful-stars" target="https://blog.naver.com/silverain_9"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/silverain_9" target="https://blog.naver.com/silverain_9"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 #
