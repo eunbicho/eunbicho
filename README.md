@@ -4,7 +4,7 @@
 
 [![Eunbi's GitHub stat](https://github-readme-stats.vercel.app/api?username=eunbicho&count_private=true&show_icons=true&icon_color=FFFFFF&custom_title=silverain's_github👀&bg_color=40,79C83D,A6D97F,E2F99E&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunbicho&bg_color=40,79C83D,A6D97F,E2F99E&title_color=FFFFFF&text_color=FFFFFF&icon_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunbicho&bg_color=40,E2F99E,A6D97F,79C83D&title_color=FFFFFF&text_color=FFFFFF&icon_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
