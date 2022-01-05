@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/eunbicho}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunbicho&count_bg=%23FFFFFF&title_bg=%23B3DF71&icon=snapcraft.svg&icon_color=%23EAFFD8&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
