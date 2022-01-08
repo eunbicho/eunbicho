@@ -8,7 +8,7 @@ iOS
 
 #
 
-#### 👩🏻‍💻 More about me
+#### 👩🏻‍💻 More about me!
 <a href="https://blog.naver.com/silverain_9" target="https://blog.naver.com/silverain_9"><img src="https://img.shields.io/badge/blog-50981A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://www.instagram.com/silverain_9" target="https://blog.naver.com/silverain_9"><img src="https://img.shields.io/badge/instagram-50981A?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
