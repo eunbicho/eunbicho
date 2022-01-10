@@ -4,7 +4,7 @@ I am a student who wants to be a super cool mobile App developer :-)
 
 #### Interested in
 
-iOS
+iOS App Developing
 
 #
 
