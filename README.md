@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student who wants to be a super cool mobile App developer :-)
+I am a student who wants to be a iOS App developer :-)
 
 #### 🌱 Interested in
 
