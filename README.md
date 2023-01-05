@@ -4,7 +4,8 @@
 
 #### 🌱 Interested in
 
-App Development / Front-end Development
+- App Development
+- Front-end Development
 
 #
 
